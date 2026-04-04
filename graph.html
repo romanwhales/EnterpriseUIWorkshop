@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Graph</title>
+</head>
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/viz.js@2.1.2-pre.1/viz.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/viz.js@2.1.2-pre.1/full.render.js"></script>
+  <script>
+const s = `
+digraph {
+	compound = "true"
+	newrank = "true"
+	subgraph "root" {
+		"[root] @pulse/analytics#build" -> "[root] @pulse/shared#build"
+		"[root] @pulse/analytics#build" -> "[root] @pulse/ui#build"
+		"[root] @pulse/codemods#build" -> "[root] ___ROOT___"
+		"[root] @pulse/dashboard#build" -> "[root] @pulse/analytics#build"
+		"[root] @pulse/dashboard#build" -> "[root] @pulse/mocks#build"
+		"[root] @pulse/dashboard#build" -> "[root] @pulse/shared#build"
+		"[root] @pulse/dashboard#build" -> "[root] @pulse/ui#build"
+		"[root] @pulse/dashboard#build" -> "[root] @pulse/users#build"
+		"[root] @pulse/legacy#build" -> "[root] @pulse/mocks#build"
+		"[root] @pulse/mocks#build" -> "[root] @pulse/shared#build"
+		"[root] @pulse/shared#build" -> "[root] ___ROOT___"
+		"[root] @pulse/ui#build" -> "[root] @pulse/shared#build"
+		"[root] @pulse/users#build" -> "[root] @pulse/shared#build"
+		"[root] @pulse/users#build" -> "[root] @pulse/ui#build"
+	}
+}
+
+`.replace(/\_\_\_ROOT\_\_\_/g, "Root").replace(/\[root\]/g, "");new Viz().renderSVGElement(s).then(el => document.body.appendChild(el)).catch(e => console.error(e));
+  </script>
+</body>
+</html>

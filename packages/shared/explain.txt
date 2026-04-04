@@ -1,0 +1,176 @@
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es5.d.ts
+  Library referenced via 'es5' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts
+  Library referenced via 'es2015' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2016.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2016.d.ts
+  Library referenced via 'es2016' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts
+  Library referenced via 'es2017' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts
+  Library referenced via 'es2018' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts
+  Library referenced via 'es2019' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts
+  Library referenced via 'es2020' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.d.ts
+  Library referenced via 'es2021' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts
+  Library referenced via 'es2022' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.dom.d.ts
+  Library referenced via 'dom' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.dom.iterable.d.ts
+  Library referenced via 'dom.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.dom.asynciterable.d.ts
+  Library referenced via 'dom.asynciterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.webworker.importscripts.d.ts
+  Library referenced via 'webworker.importscripts' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.scripthost.d.ts
+  Library referenced via 'scripthost' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.core.d.ts
+  Library referenced via 'es2015.core' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.collection.d.ts
+  Library referenced via 'es2015.collection' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.generator.d.ts
+  Library referenced via 'es2015.generator' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.iterable.d.ts
+  Library referenced via 'es2015.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+  Library referenced via 'es2015.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.generator.d.ts'
+  Library referenced via 'es2015.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts'
+  Library referenced via 'es2015.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.object.d.ts'
+  Library referenced via 'es2015.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.string.d.ts'
+  Library referenced via 'es2015.iterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.promise.d.ts
+  Library referenced via 'es2015.promise' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.proxy.d.ts
+  Library referenced via 'es2015.proxy' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.reflect.d.ts
+  Library referenced via 'es2015.reflect' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.symbol.d.ts
+  Library referenced via 'es2015.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.iterable.d.ts'
+  Library referenced via 'es2015.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+  Library referenced via 'es2015.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts'
+  Library referenced via 'es2015.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts'
+  Library referenced via 'es2015.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts'
+  Library referenced via 'es2015.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts
+  Library referenced via 'es2015.symbol.wellknown' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2015.d.ts'
+  Library referenced via 'es2015.symbol.wellknown' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts'
+  Library referenced via 'es2015.symbol.wellknown' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.weakref.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2016.array.include.d.ts
+  Library referenced via 'es2016.array.include' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2016.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2016.intl.d.ts
+  Library referenced via 'es2016.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2016.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.arraybuffer.d.ts
+  Library referenced via 'es2017.arraybuffer' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.date.d.ts
+  Library referenced via 'es2017.date' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.object.d.ts
+  Library referenced via 'es2017.object' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts
+  Library referenced via 'es2017.sharedmemory' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.string.d.ts
+  Library referenced via 'es2017.string' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.intl.d.ts
+  Library referenced via 'es2017.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts
+  Library referenced via 'es2017.typedarrays' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2017.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts
+  Library referenced via 'es2018.asyncgenerator' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts
+  Library referenced via 'es2018.asynciterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts'
+  Library referenced via 'es2018.asynciterable' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.intl.d.ts
+  Library referenced via 'es2018.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts'
+  Library referenced via 'es2018.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.intl.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.promise.d.ts
+  Library referenced via 'es2018.promise' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.regexp.d.ts
+  Library referenced via 'es2018.regexp' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2018.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.array.d.ts
+  Library referenced via 'es2019.array' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.object.d.ts
+  Library referenced via 'es2019.object' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.string.d.ts
+  Library referenced via 'es2019.string' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.symbol.d.ts
+  Library referenced via 'es2019.symbol' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.intl.d.ts
+  Library referenced via 'es2019.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2019.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.bigint.d.ts
+  Library referenced via 'es2020.bigint' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+  Library referenced via 'es2020.bigint' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.date.d.ts
+  Library referenced via 'es2020.date' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.promise.d.ts
+  Library referenced via 'es2020.promise' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts
+  Library referenced via 'es2020.sharedmemory' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.string.d.ts
+  Library referenced via 'es2020.string' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts
+  Library referenced via 'es2020.symbol.wellknown' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.string.d.ts'
+  Library referenced via 'es2020.symbol.wellknown' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.intl.d.ts
+  Library referenced via 'es2020.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.bigint.d.ts'
+  Library referenced via 'es2020.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.date.d.ts'
+  Library referenced via 'es2020.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.number.d.ts'
+  Library referenced via 'es2020.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.string.d.ts'
+  Library referenced via 'es2020.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.number.d.ts
+  Library referenced via 'es2020.number' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2020.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.promise.d.ts
+  Library referenced via 'es2021.promise' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.d.ts'
+  Library referenced via 'es2021.promise' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.error.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.string.d.ts
+  Library referenced via 'es2021.string' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.weakref.d.ts
+  Library referenced via 'es2021.weakref' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.intl.d.ts
+  Library referenced via 'es2021.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2021.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.array.d.ts
+  Library referenced via 'es2022.array' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.error.d.ts
+  Library referenced via 'es2022.error' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.intl.d.ts
+  Library referenced via 'es2022.intl' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.object.d.ts
+  Library referenced via 'es2022.object' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.string.d.ts
+  Library referenced via 'es2022.string' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.regexp.d.ts
+  Library referenced via 'es2022.regexp' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.decorators.d.ts
+  Library referenced via 'decorators' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es5.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.decorators.legacy.d.ts
+  Library referenced via 'decorators.legacy' from file '../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es5.d.ts'
+../../node_modules/.pnpm/typescript@5.9.3/node_modules/typescript/lib/lib.es2022.full.d.ts
+  Default library for target 'es2022'
+../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/global.d.ts
+  Referenced via 'global.d.ts' from file '../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/index.d.ts'
+../../node_modules/.pnpm/csstype@3.2.3/node_modules/csstype/index.d.ts
+  Imported via "csstype" from file '../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/index.d.ts' with packageId 'csstype/index.d.ts@3.2.3'
+../../node_modules/.pnpm/@types+prop-types@15.7.15/node_modules/@types/prop-types/index.d.ts
+  Imported via "prop-types" from file '../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/index.d.ts' with packageId '@types/prop-types/index.d.ts@15.7.15'
+../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/index.d.ts
+  Imported via "./" from file '../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/jsx-runtime.d.ts' with packageId '@types/react/ndex.d.ts@18.3.28'
+  Imported via "./" from file '../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/jsx-runtime.d.ts' with packageId '@types/react/ndex.d.ts@18.3.28'
+  Imported via "react" from file 'src/auth.ts' with packageId '@types/react/index.d.ts@18.3.28'
+  Entry point for implicit type library 'react' with packageId '@types/react/index.d.ts@18.3.28'
+../../node_modules/.pnpm/@types+react@18.3.28/node_modules/@types/react/jsx-runtime.d.ts
+  Imported via "react/jsx-runtime" from file 'src/api-client.ts' with packageId '@types/react/jsx-runtime.d.ts@18.3.28' to import 'jsx' and 'jsxs' factory functions
+  Imported via "react/jsx-runtime" from file 'src/auth.ts' with packageId '@types/react/jsx-runtime.d.ts@18.3.28' to import 'jsx' and 'jsxs' factory functions
+  Imported via "react/jsx-runtime" from file 'src/types.ts' with packageId '@types/react/jsx-runtime.d.ts@18.3.28' to import 'jsx' and 'jsxs' factory functions
+  Imported via "react/jsx-runtime" from file 'src/index.ts' with packageId '@types/react/jsx-runtime.d.ts@18.3.28' to import 'jsx' and 'jsxs' factory functions
+src/api-client.ts
+  Matched by include pattern 'src' in 'tsconfig.json'
+  Imported via "./api-client" from file 'src/index.ts'
+src/types.ts
+  Imported via "./types" from file 'src/auth.ts'
+  Imported via "./types" from file 'src/index.ts'
+  Matched by include pattern 'src' in 'tsconfig.json'
+src/auth.ts
+  Matched by include pattern 'src' in 'tsconfig.json'
+  Imported via "./auth" from file 'src/index.ts'
+  Imported via "./auth" from file 'src/index.ts'
+src/index.ts
+  Matched by include pattern 'src' in 'tsconfig.json'
