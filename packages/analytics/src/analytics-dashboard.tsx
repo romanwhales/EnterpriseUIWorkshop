@@ -12,7 +12,7 @@ import { Chart } from "./chart";
 import { BigTable } from "./big-table";
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import { UserList } from "@pulse/users/src/user-list";
+// import { UserList } from "@pulse/users/src/user-list";
 
 export function AnalyticsDashboard(): React.ReactElement {
   const { user, isAuthenticated } = useAuth();
